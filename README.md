@@ -4,4 +4,4 @@
 
 Note:
 
-The temporary link is refer to : https://github.com/MC-EIU/MC-EIU
+The temporary link : https://github.com/MC-EIU/MC-EIU
